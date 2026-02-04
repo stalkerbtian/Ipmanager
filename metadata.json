@@ -1,0 +1,5 @@
+{
+  "name": "IP2Proxy Intelligence Dashboard",
+  "description": "A high-performance web interface for detecting proxies, VPNs, and data centers. Analyze IP lists, visualize geographical distribution, and get AI-powered security insights.",
+  "requestFramePermissions": []
+}
